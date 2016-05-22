@@ -1,0 +1,14 @@
+$TTL 3600
+@	IN	SOA	raspberrypi-b.tsystem-w.gr.jp.	root.tsystem-w.gr.jp.	(
+				2016050501	; serial
+				3600		; refresh
+				300		; retry
+				3600000		; expire
+				3600		; minimum
+)
+		IN	NS	raspberrypi-b.tsystem-w.gr.jp.
+ns		IN	A	192.168.11.254
+r60e		IN	A	192.168.11.160
+raspberrypi-bplus	IN	A	192.168.11.170
+raspberrypi2	IN	A	192.168.11.171
+raspberrypi-b	IN	A	192.168.11.254
