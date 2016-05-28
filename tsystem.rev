@@ -53,6 +53,7 @@ $TTL 3650
 181	IN	PTR	o6scan.tsystem.gr.jp.
 182	IN	PTR	o6scan.tsystem.gr.jp.
 183	IN	PTR	o6scan.tsystem.gr.jp.
+184	IN	PTR	c7.tsystem.gr.jp.
 191	IN	PTR	macbook.tsystem.gr.jp.
 192	IN	PTR	obs266.tsystem.gr.jp.
 193	IN	PTR	d8.tsystem.gr.jp.
